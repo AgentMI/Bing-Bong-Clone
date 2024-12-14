@@ -41,8 +41,8 @@ Follow these instructions to set up the game locally and start playing.
 ## Controls
 
 - *Player 1 (Left Paddle):*
-  - Move Up: W
-  - Move Down: S
+  - Move Up: w
+  - Move Down: s
 - *Player 2 / Computer (Right Paddle):*
   - Move Up: Up Arrow or AI-controlled
   - Move Down: Down Arrow or AI-controlled
